@@ -6,7 +6,6 @@ import time
 import keyboard
 from pynput.mouse import Controller,Button
 
-
 multiPos = False
 loopedClick = False
 click = False
